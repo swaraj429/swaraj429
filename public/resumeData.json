@@ -1,0 +1,95 @@
+{
+  "main": {
+    "name": "Swaraj Deogaonkar",
+    "occupation": "Electronics Engineer and Web Developer",
+    "description": "",
+    "image": "profilepic.jpg",
+    "bio": "Work hard with full determination and dedication and to achieve organizational as well as personal goals with the best of my knowledge.Develop more skills with time and gain experience in field of working.",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "swarajdeogaonkar@gmail.com",
+    "phone": "+91 8668459938",
+    "address": {
+      "street": "",
+      "city": "Pune,",
+      "state": "Maharashtra",
+      "zip": "411058"
+    },
+    "website": "https://swaraj.deogaonkar.in",
+    "resumedownload": "https://swarajprofiledata.s3.ap-south-1.amazonaws.com/Swaraj%2BDeogaonkar%2BCV.pdf",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/swaraj-deogaonkar/",
+        "className": "fa fa-linkedin"
+      }    
+    ]
+  },
+  "resume": {
+    "skillmessage": "Work hard with full determination and dedication and to achieve organizational as well as personal goals with the best of my knowledge.",
+    "education": [
+      {
+        "school": "Marathwada Mitra Mandal's College of Engineering, Pune",
+        "degree": "BE Electronics and Tele-Communication",
+        "graduated": "June 2020",
+        "description": ""
+      }
+      
+    ],
+    "work": [
+      {
+        "company": "Fitmat Smart Solutions",
+        "title": "Electronics Engineer ",
+        "years": "June 2020 - Present",
+        "description": "The work profile consists of the programing microcontrollers and processors in accordance with product requirements and designing respective PCB designs. Also, developing website for company product and managing servers for same."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Embedded C",
+        "level": "85%"
+      },
+      {
+        "name": "C / C++",
+        "level": "85%"
+      },
+      {
+        "name": "PCB Designing",
+        "level": "80%"
+      },
+      {
+        "name": "Web Development",
+        "level": "50%"
+      },
+      {
+        "name": "Android (Native Java)",
+        "level": "40%"
+      },
+      {
+        "name": "MEAN web Development",
+        "level": "50%"
+      },
+      {
+        "name": "AWS Managemnet and Development",
+        "level": "50%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "",
+        "category": "",
+        "image": "",
+        "url": ""
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "",
+        "user": ""
+      }
+    ]
+  }
+}
